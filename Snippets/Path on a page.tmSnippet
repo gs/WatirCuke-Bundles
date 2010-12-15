@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I am on the "${1:page}" page
+</string>
+	<key>name</key>
+	<string>Path on a page</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>on</string>
+	<key>uuid</key>
+	<string>048A7411-204B-4BE5-A9D2-4366664AAFD7</string>
+</dict>
+</plist>

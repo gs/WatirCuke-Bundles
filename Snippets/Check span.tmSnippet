@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I should see the span "${1:some class}" with "${2:some text}"
+</string>
+	<key>name</key>
+	<string>Check span</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>check_span</string>
+	<key>uuid</key>
+	<string>F06FD599-D8E6-4CA9-9A4B-DA18EBC54BD5</string>
+</dict>
+</plist>

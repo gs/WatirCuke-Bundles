@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I click the "${1:radio}" radio button</string>
+	<key>name</key>
+	<string>Radio</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>radio</string>
+	<key>uuid</key>
+	<string>6A6F9DCF-FB51-45EC-A722-11720690C9F1</string>
+</dict>
+</plist>

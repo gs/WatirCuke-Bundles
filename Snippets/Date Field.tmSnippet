@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I fill in the text field "${1:text field name}" with "${2:yesterday,today, tomorrow,2 days from now, 4 days from now, next monday, next week, next month,  next year }"
+</string>
+	<key>name</key>
+	<string>Date Field</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>df</string>
+	<key>uuid</key>
+	<string>7E7DC7DC-D3AD-4E62-94AF-C396CEF6A011</string>
+</dict>
+</plist>

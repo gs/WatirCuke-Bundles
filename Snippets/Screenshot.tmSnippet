@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I take a screenshot
+</string>
+	<key>name</key>
+	<string>Screenshot</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>screenshot</string>
+	<key>uuid</key>
+	<string>457C482F-10BE-4392-BA6A-8D3D4A911207</string>
+</dict>
+</plist>

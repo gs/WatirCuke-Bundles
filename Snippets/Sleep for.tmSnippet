@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I sleep for "${1:seconds}"
+</string>
+	<key>name</key>
+	<string>Sleep for</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>sleep</string>
+	<key>uuid</key>
+	<string>7AB85550-67B0-4ABB-984E-1B743F556B7E</string>
+</dict>
+</plist>

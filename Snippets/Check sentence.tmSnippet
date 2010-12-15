@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>It should ${1:NOT }contains the html "${2:some html object}"
+</string>
+	<key>name</key>
+	<string>Check html</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>check_html</string>
+	<key>uuid</key>
+	<string>17AEF2E3-9C73-45FF-834F-2D0AA360BBA6</string>
+</dict>
+</plist>

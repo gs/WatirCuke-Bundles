@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>WatirCuke</string>
+	<key>ordering</key>
+	<array>
+		<string>11E7F92F-0FF2-4D48-90CD-85EBE653A1E0</string>
+		<string>A66C40B3-DB61-4D74-86E8-5ACF3298511E</string>
+		<string>B72DB7CB-0A52-4D5F-8EC1-EDD080712F28</string>
+		<string>6A6F9DCF-FB51-45EC-A722-11720690C9F1</string>
+		<string>0E5E0338-D31E-4D2F-9C78-F91F24CF8664</string>
+		<string>2D46E4F5-8D1C-46D6-A9C9-57CAAE94EE1C</string>
+		<string>6185645D-D0EF-4A3C-9DD1-264464EBEC06</string>
+		<string>FF3F91F6-852F-4AC9-8B4C-1429718902D5</string>
+		<string>1D16B11C-9639-43EE-B083-6236381B2468</string>
+		<string>FCE99152-B4E6-488F-881D-C1FD128548A5</string>
+		<string>3D7675F8-AED7-45FE-921C-A4CD5DFA28F3</string>
+		<string>2BA97FEC-A33A-4079-8CF8-B79146B9A9E7</string>
+		<string>7E7DC7DC-D3AD-4E62-94AF-C396CEF6A011</string>
+		<string>7D685147-5DD2-427C-8D7B-25090B704D7B</string>
+		<string>F06FD599-D8E6-4CA9-9A4B-DA18EBC54BD5</string>
+		<string>17AEF2E3-9C73-45FF-834F-2D0AA360BBA6</string>
+		<string>E6DACA31-A0C1-4D85-A640-CDB184257800</string>
+		<string>A0E28135-BF11-430C-801B-E6DBAE6B12AE</string>
+		<string>048A7411-204B-4BE5-A9D2-4366664AAFD7</string>
+		<string>D09EB148-49AF-4E52-8F8D-ED73AFC9CC30</string>
+		<string>7AB85550-67B0-4ABB-984E-1B743F556B7E</string>
+		<string>BAA1E361-A043-48CD-9D04-45BA011DCA18</string>
+		<string>457C482F-10BE-4392-BA6A-8D3D4A911207</string>
+		<string>F8E6F9E2-35B6-4E6A-934F-9B4AF7CAC68E</string>
+	</array>
+	<key>uuid</key>
+	<string>D814B34F-25F0-44B0-A163-160A0E7BD001</string>
+</dict>
+</plist>

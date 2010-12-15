@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I click row "${1:some}" in the "${2:some table}" table</string>
+	<key>name</key>
+	<string>Table</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>table</string>
+	<key>uuid</key>
+	<string>6185645D-D0EF-4A3C-9DD1-264464EBEC06</string>
+</dict>
+</plist>

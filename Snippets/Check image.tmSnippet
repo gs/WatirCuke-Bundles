@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I should see the text "${1:some image}" image
+</string>
+	<key>name</key>
+	<string>Check image</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>check_image</string>
+	<key>uuid</key>
+	<string>A0E28135-BF11-430C-801B-E6DBAE6B12AE</string>
+</dict>
+</plist>

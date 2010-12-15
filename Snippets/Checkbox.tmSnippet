@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I click the "${1:name}" checkbox</string>
+	<key>name</key>
+	<string>Checkbox</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>checkbox</string>
+	<key>uuid</key>
+	<string>0E5E0338-D31E-4D2F-9C78-F91F24CF8664</string>
+</dict>
+</plist>

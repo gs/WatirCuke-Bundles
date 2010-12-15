@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I fill in the text field "${1:text field name}" with "${2:some text}"
+  </string>
+	<key>name</key>
+	<string>Text Field</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>tf</string>
+	<key>uuid</key>
+	<string>2BA97FEC-A33A-4079-8CF8-B79146B9A9E7</string>
+</dict>
+</plist>

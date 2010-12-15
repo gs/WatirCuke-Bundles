@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>I ${1:click/onmouseover} the "${2:link name}" link${3: with alert}</string>
+	<key>name</key>
+	<string>Link</string>
+	<key>scope</key>
+	<string>text.gherkin.feature</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>11E7F92F-0FF2-4D48-90CD-85EBE653A1E0</string>
+</dict>
+</plist>
