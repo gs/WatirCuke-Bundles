@@ -3,11 +3,11 @@
 This bundles speeds up writing sentences for watircuke. It works with ".feature" files                                                                  
 
 For Textmate:
-    git clone git://github.com/gs/watircuke-tmbundle.git Watircuke.tmbundle
+    git clone git://github.com/gs/WatirCuke-Bundles.git Watircuke.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
     
 For Redcar:
-    git clone git://github.com/gs/watircuke-tmbundle.git Watircuke.tmbundle
+    git clone git://github.com/gs/WatirCuke-Bundles.git Watircuke.tmbundle
     
 
 Hope it helps a lot :)
