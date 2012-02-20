@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>I sleep until I see the text "${1:text}"
+	<string>I sleep for ${1:seconds} until I see the text "${2:text}"
 </string>
 	<key>name</key>
 	<string>Sleep until</string>
